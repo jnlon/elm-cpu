@@ -1,0 +1,16 @@
+Christopher A
+
+Final Biological Brain Assignment Show to TA in Tutorial or
+Drop-in Centre For 2.5%, 
+
+Replace the textual history of states and executed
+instructions with a graphical representation of the current CPU state.
+
+On the right, put a scrolling list of instructions with an arrow pointing to the
+current instruction.
+
+On the left, put boxes for each register, with the current
+value inside, and show the arithmetical operation underneath the registers in
+an area marked ALU (for Arithmetic Logic Unit), 
+
+i.e. for Add r1 r2 r3, show oldValue(r2) + oldValue(r3) = newValue(r1). 
